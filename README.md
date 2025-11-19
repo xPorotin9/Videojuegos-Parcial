@@ -40,15 +40,8 @@ También puedes abrir la solución en Visual Studio (`build/3DGAME.sln`) y compi
 
 ## Integrantes
 
-- Integrante 1: [Nombre 1]
-- Integrante 2: [Nombre 2]
+- José Machaca
+- Jhosep Mollapaza
 
-> Reemplaza las líneas anteriores con los nombres reales de los integrantes.
 
-## Licencia
 
-Si quieres añadir una licencia, crea un archivo `LICENSE` con la licencia escogida (por ejemplo MIT).
-
----
-
-Si quieres, puedo también crear automáticamente el repositorio remoto en GitHub (recomiendo usar el nombre `Videojuegos-Parcial` sin espacios), y ejecutar los comandos para subirlo. ¿Deseas que lo haga ahora? Si prefieres hacerlo tú manualmente, abajo dejo los comandos exactos para PowerShell.
