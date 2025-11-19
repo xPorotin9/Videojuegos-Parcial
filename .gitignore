@@ -1,0 +1,27 @@
+# Build / Binary
+build/
+bin/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Temporary
+*.log
+*.tmp
+
+# Levels or generated assets (if any are generated at build time)
+levels/*.tmp

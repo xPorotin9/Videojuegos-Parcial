@@ -1,0 +1,29 @@
+// TABLA DE VALORES
+// =====================================
+
+// GRAVEDAD:
+// 0.008f = Muy baja (luna)
+// 0.012f = Baja
+// 0.015f = Normal
+// 0.018f = Alta
+// 0.022f = Muy alta
+
+// FUERZA DE SALTO:
+// 0.25f = Muy bajo
+// 0.35f = Normal
+// 0.45f = Alto
+// 0.55f = Muy alto
+// 0.70f = Súper salto
+
+// DISTANCIA MÁXIMA ALCANZABLE:
+// Con salto normal (0.35f) y gravedad normal (0.015f):
+// - Horizontal: ~4-5 unidades
+// - Vertical: ~4 unidades de altura
+
+// TAMAÑOS DE PLATAFORMA:
+// 1.5f = Yuca
+// 2.0f = Muy difícil
+// 2.5f = Difícil
+// 3.0f = Normal
+// 4.0f = Fácil
+// 5.0f = Muy fácil

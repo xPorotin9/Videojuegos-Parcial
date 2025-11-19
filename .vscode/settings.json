@@ -1,0 +1,10 @@
+{
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.sourceDirectory": "E:/Proyectos/Game 2D - Audio",
+    "files.associations": {
+        "random": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "array": "cpp"
+    }
+}
